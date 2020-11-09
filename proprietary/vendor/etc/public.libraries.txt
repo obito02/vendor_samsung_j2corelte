@@ -1,0 +1,4 @@
+libOpenCL.so
+libMcClient.so
+libMcRegistry.so
+libandroid_ssrm.so
